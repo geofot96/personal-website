@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Co-Founder at Percent
+    company: Percent
+    # company_url: https://www.epfl.ch
+    location: Lausanne, Switzerland
+    date_start: '2021-02-01'
+    date_end: 
+    description: We help companies manage their projects
+
   - title: Teaching assistant for Introduction to Database systems
     company: EPFL
     company_url: https://www.epfl.ch
