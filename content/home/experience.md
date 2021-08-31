@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Co-Founder at Percent
-    company: Percent
+    company: Percent Labs
     # company_url: https://www.epfl.ch
     location: Lausanne, Switzerland
     date_start: '2021-02-01'
     date_end: 
-    description: We help companies manage their projects
+    description: We help companies save time and manage their projects more efficiently
 
   - title: Teaching assistant for Introduction to Database systems
     company: EPFL
