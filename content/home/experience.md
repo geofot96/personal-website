@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Co-Founder at Percent
+  - title: Co-Founder & CEO at Percent Labs
     company: Percent Labs
     # company_url: https://www.epfl.ch
     location: Lausanne, Switzerland
