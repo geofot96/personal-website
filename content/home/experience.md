@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Co-Founder & CEO at Percent Labs
     company: Percent Labs
-    # company_url: https://www.epfl.ch
+    company_url: https://www.percentlabs.io
     location: Lausanne, Switzerland
     date_start: '2021-02-01'
     date_end: 
@@ -35,7 +35,7 @@ experience:
     company_url: https://www.epfl.ch
     location: Lausanne, Switzerland
     date_start: '2021-02-01'
-    date_end: '2021-06-01
+    date_end: '2021-06-01'
     description: Helping students to better understand the course.
 
   - title: Software Engineering intern
