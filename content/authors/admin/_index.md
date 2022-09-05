@@ -6,7 +6,7 @@ title: George Fotiadis
 superuser: true
 
 # Role/position/tagline
-role: Computer Science student
+role: Software Engineer, CEO and more
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,13 @@ organizations:
   url: https://www.epfl.ch/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm interested in highly scalable systems, such as datacenters, and distributed machine learning.
+bio: Code-Cook-Sleep-Repeat
 
 # Interests to show in About widget
 interests:
 - Distributed Systems
-- Datacenter systems
-- Distributed machine learning
+- Product Management
+- Strategy Consulting
 
 # Education to show in About widget
 # education:
@@ -62,7 +62,7 @@ email: ""
 highlight_name: false
 ---
 
-I’m George, I’m a Computer Science student at EPFL and my dream is that one day I’ll create something that **millions** of people will get to use.
+I’m George, I’m a Computer Science student at EPFL and I hope that one day I’ll create something that **millions** of people will get to use.
 
 Besides CS I'm very passionate about cooking so I decided to also post some recipes that I created!
 

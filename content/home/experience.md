@@ -22,21 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Engineering intern (master thesis)
+    company: Oracle Labs
+    company_url: https://labs.oracle.com/
+    location: Zürich, Switzerland
+    date_start: '2022-09-19'
+    date_end:
+    description: Worked at AWS Aurora to build a smart partitioning recommender.
+
+  - title: Software Engineering intern
+    company: Amazon AWS
+    company_url: https://aws.amazon.com
+    location: Dublin, Ireland
+    date_start: '2022-02-07'
+    date_end: '2022-08-07'
+    description: Worked at AWS Aurora to build a smart partitioning recommender.
+
   - title: Co-Founder & CEO at Percent Labs
     company: Percent Labs
     company_url: https://www.percentlabs.io
     location: Lausanne, Switzerland
     date_start: '2021-02-01'
     date_end: 
-    description: We help companies save time and manage their projects more efficiently
-
-  - title: Teaching assistant for Introduction to Database systems
-    company: EPFL
-    company_url: https://www.epfl.ch
-    location: Lausanne, Switzerland
-    date_start: '2021-02-01'
-    date_end: '2021-06-01'
-    description: Helping students to better understand the course.
+    description: We help companies keep track of internal KPIs and organize their projects and goals.
 
   - title: Software Engineering intern
     company: Bloomberg LP
