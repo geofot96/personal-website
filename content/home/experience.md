@@ -27,7 +27,7 @@ experience:
     company_url: https://oracle.com/
     location: Zürich, Switzerland
     date_start: "2022-10-01"
-    date_end: "2023-03-31"
+    date_end: 
     description: Working at Oracle HeatWave to build a logging analytics service.
 
   - title: Software Engineering intern
@@ -43,7 +43,7 @@ experience:
     company_url: https://www.percentlabs.io
     location: Lausanne, Switzerland
     date_start: "2021-02-01"
-    date_end:
+    date_end: "2023-02-01"
     description: We help companies keep track of internal KPIs and organize their projects and goals.
 
   - title: Software Engineering intern

@@ -6,7 +6,7 @@ title: George Fotiadis
 superuser: true
 
 # Role/position/tagline
-role: Software Engineer, CEO and more
+role: Software, Data and Business
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,11 +14,10 @@ organizations:
   url: https://www.epfl.ch/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Code-Cook-Sleep-Repeat
+bio: Trying to have impact
 
 # Interests to show in About widget
 interests:
-- Distributed Systems
 - Product Management
 - Strategy Consulting
 
@@ -62,8 +61,8 @@ email: ""
 highlight_name: false
 ---
 
-I’m George, I’m a Computer Science student at EPFL and I hope that one day I’ll create something that **millions** of people will get to use.
+Having worked on big tech companies and startups, I'm combining software, data and business expertise and turning them into impactful products.
 
-Besides CS I'm very passionate about cooking so I decided to also post some recipes that I created!
+Besides work I'm very passionate about cooking so I decided to also post some recipes that I created!
 
 {{< icon name="download" pack="fas" >}} Check my {{< staticref "media/George Fotiadis.pdf" "newtab" >}}CV{{< /staticref >}}.
