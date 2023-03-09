@@ -20,6 +20,7 @@ bio: Trying to have impact
 interests:
 - Product Management
 - Strategy Consulting
+- Software Engineering
 
 # Education to show in About widget
 # education:
