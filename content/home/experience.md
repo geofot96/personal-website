@@ -22,13 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Software Engineering intern (master thesis)
+  - title: Software Engineer
     company: Oracle
     company_url: https://oracle.com/
     location: Zürich, Switzerland
     date_start: "2022-10-01"
-    date_end: 
+    date_end:
     description: Working at Oracle HeatWave to build a logging analytics service.
+
+  - title: Founder
+    company: mbb.ai
+    company_url: https://mbb.ai
+    location: Lausanne, Switzerland
+    date_start: "2023-02-01"
+    date_end:
+    description: We use generative AI to help candidates prepare for consulting interviews.
 
   - title: Software Engineering intern
     company: Amazon AWS
