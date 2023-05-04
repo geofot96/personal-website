@@ -25,6 +25,13 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_end: ""
+  date_start: "2022-12-01"
+  description: Built an app that uses generative AI to make cities greener
+  organization: 
+  organization_url:
+  title: Lauzhack 6.0 fourth place
+- certificate_url:
+  date_end: ""
   date_start: "2020-11-01"
   description: Built a Chrome extension that replaces ads with personalized messages
   organization: 
