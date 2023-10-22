@@ -10,8 +10,8 @@ role: Software, Data and Business
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: École polytechnique fédérale de Lausanne (EPFL)
-  url: https://www.epfl.ch/
+- name: Z3 Capital
+  url: https://z3capital.ch/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Trying to have impact

@@ -22,13 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Hedge Fund Software Engineer
+    company: Z3 Captial
+    company_url: https://z3capital.ch/
+    location: Geneva, Switzerland
+    date_start: "2023-10-01"
+    date_end: 
+    description: Redesigning and building the market data ingestion pipeline.
+
   - title: Software Engineer
     company: Oracle
     company_url: https://oracle.com/
     location: Zürich, Switzerland
     date_start: "2022-10-01"
-    date_end:
-    description: Working at Oracle HeatWave to build a logging analytics service.
+    date_end: "2023-10-01"
+    description: Designed and built a log analytics service for Oracle HeatWave.
 
   - title: Founder
     company: mbb.ai
@@ -60,7 +68,7 @@ experience:
     location: London, UK
     date_start: "2020-07-01"
     date_end: "2020-09-01"
-    description: Re-designed and implemented the backend of the search feature of the notes app.
+    description: Re-designed and implemented the backend of the search feature of the NOTES app.
 
   - title: Deep learning and Big Data analysis intern
     company: Kudelski Group
