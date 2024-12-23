@@ -22,13 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Engineer
+    company: Google
+    company_url: https://google.com/
+    location: Zurich, Switzerland
+    date_start: "2024-11-25"
+    date_end:
+    description: Working on YouTube Shopping.
+
   - title: Hedge Fund Software Engineer
     company: Z3 Captial
     company_url: https://z3capital.ch/
     location: Geneva, Switzerland
     date_start: "2023-10-01"
-    date_end: 
-    description: Redesigning and building the market data ingestion pipeline.
+    date_end: "2024-06-30"
+    description: Responsible for the entire infrastructure of the fund.
 
   - title: Software Engineer
     company: Oracle
@@ -43,7 +51,7 @@ experience:
     company_url: https://mbb.ai
     location: Lausanne, Switzerland
     date_start: "2023-02-01"
-    date_end:
+    date_end: "2024-11-25"
     description: We use generative AI to help candidates prepare for consulting interviews.
 
   - title: Software Engineering intern

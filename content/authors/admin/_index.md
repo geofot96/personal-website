@@ -10,8 +10,8 @@ role: Software, Data and Business
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Z3 Capital
-  url: https://z3capital.ch/
+- name: Google
+  url: https://google.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Trying to have impact
@@ -43,17 +43,17 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/gfotiadis/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/geofot96
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/geofot96
 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: media/George Fotiadis.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: media/George Fotiadis.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,4 +66,4 @@ Having worked on big tech companies and startups, I'm combining software, data a
 
 Besides work I'm very passionate about cooking so I decided to also post some recipes that I created!
 
-{{< icon name="download" pack="fas" >}} Check my {{< staticref "media/George Fotiadis.pdf" "newtab" >}}CV{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Check my {{< staticref "media/George Fotiadis.pdf" "newtab" >}}CV{{< /staticref >}}. -->
