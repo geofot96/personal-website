@@ -62,7 +62,7 @@ email: ""
 highlight_name: false
 ---
 
-Having worked on big tech companies and startups, I'm combining software, data and business expertise and turning them into impactful products.
+I'm a software engineer at Google, I've built an AI startup with tens of thousands of users for which I was included in the Forbes 30 Under 30 list, and I've worked at major tech companies like Amazon, Oracle, and Bloomberg.
 
 Besides work I'm very passionate about cooking so I decided to also post some recipes that I created!
 
